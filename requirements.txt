@@ -1,0 +1,6 @@
+azure-functions
+azure-data-tables==12.7.0
+streamlit
+pandas
+requests
+plotly
